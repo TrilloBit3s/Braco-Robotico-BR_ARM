@@ -1,5 +1,8 @@
 # Braço-Robótico-BR_ARM
 
+> ### Video do projeto em funcionamento
+> https://www.youtube.com/watch?v=vNtb4wqK-VI&t=6s&ab_channel=MikeUnityGame
+
 ![garra1](https://user-images.githubusercontent.com/79748858/111413261-b09d3b00-86bc-11eb-96d0-33e722141c56.jpg)
 
 ![garra2](https://user-images.githubusercontent.com/79748858/111413269-b3982b80-86bc-11eb-9c5c-ef227c436cc0.jpg)
