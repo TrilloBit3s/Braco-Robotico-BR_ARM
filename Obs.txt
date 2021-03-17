@@ -1,0 +1,1 @@
+Deixei os PDF em tamanho de servomotor padrão para o corpo, usei servos motores da towerpro mg995 e para a garra usei servos menores
